@@ -1,7 +1,7 @@
 {
   "name": "@seayjohnny/card",
-  "version": "1.0.1",
-  "description": "A simple resume card for Johnny Seay (@seay.johnny)",
+  "version": "1.0.2",
+  "description": "A simple resume card for Johnny Seay (@seayjohnny)",
   "main": "card.js",
   "bin": "card.js",
   "type": "module",
