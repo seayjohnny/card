@@ -1,0 +1,14 @@
+{
+  "name": "@seay.johnny/card",
+  "version": "1.0.0",
+  "description": "A simple resume card for Johnny Seay (@seay.johnny)",
+  "main": "card.js",
+  "bin": "card.js",
+  "type": "module",
+  "scripts": {
+    "test": "node card.js"
+  },
+  "keywords": [],
+  "author": "Johnny Seay <seay.johnny@gmail.com> (https://johnny.seay.io)",
+  "license": "ISC"
+}
