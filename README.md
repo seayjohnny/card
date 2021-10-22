@@ -5,7 +5,7 @@ This is a fun method of connecting with me via terminal using npx. It leverages 
 To use this, just run the following command
 
 ```
-npx @seay.johnny/card
+npx @seayjohnny/card
 ```
 
 After that, you should see the following output in your terminal.
