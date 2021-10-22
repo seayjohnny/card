@@ -5,6 +5,7 @@
   "main": "card.js",
   "bin": "card.js",
   "type": "module",
+  "repository": "github:seayjohnny/card",
   "scripts": {
     "test": "node card.js"
   },
